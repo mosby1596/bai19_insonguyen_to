@@ -16,21 +16,7 @@ int main() {
 		if (dem == 2) {
 			cout << y << " la so nguyen to ";
 		}
-	}/*
-	for (int i = 1; i <= n; i++)
-	{
-		if (n % i == 0) {
-			dem++;
-
-		}
-	}
-	//cout << "so dem =" << dem << endl;
-	if (dem == 2) {
-		cout << "So " << n << " la so nguyen to\n";
-	}
-	else{
-		cout << "So " << n << " khong phai la so nguyen to\n";
-	}*/
+	
 	return 0;
 
 }
